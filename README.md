@@ -8,10 +8,11 @@ QUICKSTART:
 Once you have installed Pipe Net you should be able to see the PipeNet directory in your project view.
 To start creating your new pipe network, click on GameObject > Create Other > PipeNet
 This will place a new pipe network gameobject to the scene and create a horizontal plane for collision check when adding a new node(You can also delete that and then use your own colliders).
-
+![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/editor.gif)
 ------------------------------------------------------
 BASIC OVERVIEW:
 ------------------------------------------------------
+![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/inspector.JPG)
 Global Setting: 
 
 	Show Flow Line	- switch to show the flowing line animation effects.
@@ -33,3 +34,9 @@ Current Node:
 Edit Mode:
 	Transform:		- you can move or delete nodes. With 'CTRL' key down do a continuous connection
 	Connect Line	- you can drag a node to the other to connect them.
+
+------------------------------------------------------
+ANALYSES:
+------------------------------------------------------
+![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/analysis1.gif)
+![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/analysis2.gif)
