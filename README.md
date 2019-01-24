@@ -1,18 +1,24 @@
 # PipeNet
-Visualize pipe networks and do some related analyses with this plugin in the Unity3D
+Visualize pipe networks and do some related analyses with this plugin in Unity3D
 
 ![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/sample1.gif)
 ------------------------------------------------------
-QUICKSTART:
-------------------------------------------------------
-Once you have installed Pipe Net you should be able to see the PipeNet directory in your project view.
+# QUICK START
+
+Once you have installed Pipe Net with the 'PipeNet' directory in your project view.
+
 To start creating your new pipe network, click on GameObject > Create Other > PipeNet
-This will place a new pipe network gameobject to the scene and create a horizontal plane for collision check when adding a new node(You can also delete that and then use your own colliders).
+This will place a new pipe network game object to the scene and also create a horizontal plane for collision checking when adding a new node(You can also delete that and then use your own colliders).
+
 ![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/editor.gif)
+
 ------------------------------------------------------
 BASIC OVERVIEW:
 ------------------------------------------------------
+
 ![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/inspector.JPG)
+
+------------------------------------------------------
 Global Setting: 
 
 	Show Flow Line	- switch to show the flowing line animation effects.
@@ -36,7 +42,14 @@ Edit Mode:
 	Connect Line	- you can drag a node to the other to connect them.
 
 ------------------------------------------------------
+TESTED UNITY VERSION:
+------------------------------------------------------
+> Unity 5.3 
+Current Unity 2018.3
+
+------------------------------------------------------
 ANALYSES:
 ------------------------------------------------------
+
 ![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/analysis1.gif)
 ![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/analysis2.gif)
