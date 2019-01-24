@@ -1,10 +1,9 @@
 # PipeNet
-Visualize pipe networks and do some related analyses with this plugin in Unity3D
+Visualize pipe networks and do some related analyses in Unity3D
 
 ![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/sample1.gif)
 ------------------------------------------------------
 # QUICK START
-
 Once you have installed Pipe Net with the 'PipeNet' directory in your project view.
 
 To start creating your new pipe network, click on GameObject > Create Other > PipeNet
@@ -44,8 +43,7 @@ Edit Mode:
 ------------------------------------------------------
 TESTED UNITY VERSION:
 ------------------------------------------------------
-> Unity 5.3 
-Current Unity 2018.3
+> Unity 5.3 or Newer (2018.3 .etc)
 
 ------------------------------------------------------
 ANALYSES:
