@@ -1,7 +1,7 @@
 # PipeNet
 Visualize pipe networks and do some related analyses with this plugin in the Unity3D
 
-![](https://github.com/LizhuWeng/PipeNet/Doc/raw/sample1.gif)
+![](https://github.com/LizhuWeng/PipeNet/blob/master/Doc/sample1.gif)
 ------------------------------------------------------
 QUICKSTART:
 ------------------------------------------------------
